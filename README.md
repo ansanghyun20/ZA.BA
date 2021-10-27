@@ -1,18 +1,41 @@
 # ZA.BA.
-홈 트레이닝 자세 교정 플랫폼
+### 헬스 자세교정 플랫폼
 
 
-<img width="1101" alt="image" src="https://user-images.githubusercontent.com/62547169/138790525-a9fc2503-3bb1-4801-8603-8b4bfb0e5d98.png">
+### 팀원 소개 및 역할
+
+![image](https://user-images.githubusercontent.com/62547169/138979253-109f0c6b-8f13-472e-8b69-6699bdca0d9b.png)
 
 
-<img width="1099" alt="image" src="https://user-images.githubusercontent.com/62547169/138790549-5da1d8f6-fbb1-4eba-b9b7-e13b375276cf.png">
+### 프로젝트 제작 동기
 
 
-<img width="1098" alt="image" src="https://user-images.githubusercontent.com/62547169/138790565-a90f577c-d7c7-42f8-830c-d2492c445e59.png">
+#### 1) 왜 홈 트레이닝인가?
+
+   - 코로나19로 인한 건강 문제 발생 : 신체활동 감소, 흡연 증가 등으로 인한 체중 증가 및 건강상태 악화
+   - 코로나 시대에 따른 사회 변화 : 코로나 대유행 때마다 ‘홈트레이닝’언급량 증가
+   - 트레이너가 겪는 어려움 : 코로나 영향 및 유튜브 시장 등으로 인해 대면 트레이닝에 어려움 발생
+   - 올바른 자세의 중요성 : 정확하고 올바른 자세가 트레이닝에 있어서 가장 중요
+
+ `→ 이를 모두 고려한 트레이닝 플랫폼에 대한 개발 필요성 대두`
+ 
+ #### 2) 왜 ZA.BA.인가?
+ 
+   - 차별성 : 전문 트레이너의 피드백을 받을 수 없는 단순 AI 트레이닝 플랫폼과 차별화
+   - 기획의도
+    ◦ 트레이너에게 받을 수 있는 실시간 자세 피드백
+    ◦ 줌과 같은 인터넷 서버와 인공지능 기술을 결합한 웹 사이트 개발
+   - 개발 목적
+    ◦ 트레이너의 전문적 코칭
+    ◦ 정확한 자세를 측정하는 AI
+    ◦ 운동량 측정 데이터 제공
+    
+    
+### 서비스 및 구조 설명
 
 
-<img width="1100" alt="image" src="https://user-images.githubusercontent.com/62547169/138790580-780aedc5-3fe5-4879-a61f-d149d8e09a77.png">
+#### 3) 프로젝트 설계
 
+   - 일정 : 구글 스프레드시트, 트렐로 등을 활용한 의사소통 및 협업 수행
 
-<img width="1102" alt="image" src="https://user-images.githubusercontent.com/62547169/138790618-36c5b418-3a21-4a2d-96a7-8b9e185a66c1.png">
-
+![image](https://user-images.githubusercontent.com/62547169/138979400-aa1f8aee-5e9d-4ebb-94fc-c9a055483f1c.png)
