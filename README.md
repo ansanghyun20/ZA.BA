@@ -2,6 +2,17 @@
 ### 헬스 자세교정 플랫폼
 
 
+## 시연 영상 링크
+
+1. 서비스  -  https://youtu.be/G40ThETazsk
+2. 대시보드  -  https://youtu.be/GjyRyMhT6oQ
+3. 트레이너인증  -  https://youtu.be/gLuK0BR-Yfg
+4. 스쿼트 시연  -  https://youtu.be/oBK45VmUOoA
+5. 플랭크 시연  -  https://youtu.be/hppbg2swK8c
+6. 런지 시연  -  https://youtu.be/s9f7PsMZHMw
+
+
+
 ### 팀원 소개 및 역할
 
 ![image](https://user-images.githubusercontent.com/62547169/138979253-109f0c6b-8f13-472e-8b69-6699bdca0d9b.png)
