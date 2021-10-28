@@ -3,7 +3,7 @@
 
 ### 헬스 자세교정 플랫폼
  
-
+ 
 ## 시연 영상 링크
 
 1. 서비스  -  https://youtu.be/G40ThETazsk
