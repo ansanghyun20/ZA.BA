@@ -1,7 +1,16 @@
 # ZA.BA 
-자바 : 자세를 바르게
- 
+
 ### 헬스 자세교정 플랫폼
+
+
+자바 : 자세를 바르게
+
+관련 기사 링크
+
+http://news.unn.net/news/articleView.html?idxno=518095
+
+
+
  
  
 
